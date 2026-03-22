@@ -1,0 +1,39 @@
+using UnityEngine;
+
+public class King : Entity
+{
+    private Transform player;
+
+    protected override void Awake()
+    {
+        base.Awake();
+        player = FindFirstObjectByType<Player>().transform;
+    
+    }
+    protected override void Update()
+    {
+        HandleFlip();
+
+        
+    }
+    protected override void HandleFlip()
+    {
+        if(player == null)
+        {
+            return;
+        }
+        if (player.transform.position.x > transform.position.x && isFacingRight == false)
+        {
+            Flip();
+        }
+        else if (player.transform.position.x < transform.position.x && isFacingRight == true)
+        {
+            Flip();
+        }
+    }
+    protected override void Die()
+    {
+        base.Die();
+        UI.Instance.EnableGameOver();
+    }
+}
