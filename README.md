@@ -8,7 +8,7 @@ Despite this game being an example he used during his course, I found it very ex
 This Game was developed by me but using the guidance of this tutorial (Definitely recommend checking it out!) : https://www.youtube.com/watch?v=ZEtKg9AyEJc&list=LL&index=7 </br>
 
 All Assets are from Itch.io. Below I have linked each assets owners: <br>
-Background : https://edermunizz.itch.io/free-pixel-art-forest
-Warrior Main Character: https://clembod.itch.io/warrior-free-animation-set
-Skeletons: https://jesse-m.itch.io/skeleton-pack
-King Elf: https://charmedwheat.itch.io/king-elf-animation
+Background : https://edermunizz.itch.io/free-pixel-art-forest<br>
+Warrior Main Character: https://clembod.itch.io/warrior-free-animation-set<br>
+Skeletons: https://jesse-m.itch.io/skeleton-pack<br>
+King Elf: https://charmedwheat.itch.io/king-elf-animation<br>
